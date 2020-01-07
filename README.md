@@ -11,4 +11,5 @@ I think something public and online using the [GC directory](gcdirectory-gcannua
 
 
 
-ref: [OrgChart](https://github.com/dabeng/OrgChart)
+ref exisitng OSS example: [OrgChart](https://github.com/dabeng/OrgChart)
+ref dataset: [GEDS](https://open.canada.ca/en/suggested-datasets/government-electronic-directory-services-geds)
