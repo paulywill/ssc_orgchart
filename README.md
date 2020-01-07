@@ -7,4 +7,8 @@ Within my organization I have to be "granted" permission to use the entreprise s
 
 Meh.
 
-I think something public and online using the [GC directory](gcdirectory-gcannuaire.ssc-spc.gc.ca/).
+I think something public and online using the [GC directory](gcdirectory-gcannuaire.ssc-spc.gc.ca/) can be created.
+
+
+
+ref: [OrgChart](https://github.com/dabeng/OrgChart)
